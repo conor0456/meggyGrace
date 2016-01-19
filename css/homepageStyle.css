@@ -251,13 +251,13 @@ q:after
 #navMain.navbar-default .navbar-nav>li>a:focus {
    
     color: white;
-    background-color: #6FB353;
+    background-color: black;
 }
 #navMain.navbar-default .navbar-nav>.active>a,
 #navMain.navbar-default .navbar-nav>.active>a:hover,
 #navMain.navbar-default .navbar-nav>.active>a:focus {
     color: white;
-    background-color: #6FB353;
+    background-color: black;
 }
 #navMain.navbar-default .navbar-toggle {
     border-color: #ffffff;
